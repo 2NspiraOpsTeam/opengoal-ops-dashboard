@@ -1,0 +1,6 @@
+record_id,organization_name,contact_name,role_target,org_type,address,city,state,zip,phone,email,website,primary_channel,distance_bucket_from_flushing_meadows,status,source,notes
+OGS-0001,Manhattan Children's Center,,School Social Worker / Program Coordinator,School,,,,,,https://www.manhattanchildrenscenter.org,Email,Outside 12mi,Seeded,Jeffrey-provided,Referenced as existing player-related school
+OGS-0002,Economic Opportunity Council of Suffolk Inc.,J Lacrete,Support Services Contact,Support Organization,"320 Carleton Ave Suite 7800",Central Islip,NY,11722,"631-666-6471 x647",jlacrete@eoc-suffolk.com,https://www.eoc-suffolk.com,Email,Outside 12mi,Seeded,Jeffrey-provided,Known support services organization
+OGS-0003,Open Goal Soccer,Isaira Abreu,Parent/Client Contact,Existing Contact,,,,,,,,Wix,Unknown,Observed,Wix dashboard activity feed,Invoice paid + booking/order activity seen
+OGS-0004,Open Goal Soccer,Natalie Greaves-Peters,Parent/Client Contact,Existing Contact,,,,,,,,Wix,Unknown,Observed,Wix dashboard activity feed,Booking canceled activity seen
+OGS-0005,Open Goal Soccer,Meredith Begley,Parent/Client Contact,Existing Contact,,,,,,,,Wix,Unknown,Observed,Wix dashboard activity feed,Booking canceled activity seen
