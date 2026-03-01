@@ -1,0 +1,6 @@
+message_id,contact_id,channel_type,message_direction,campaign,message_summary,message_template,sent_at,cta,status,source
+MSG-1001,CT-0001,linkedin,outbound,ogs-webinar,Shared Open Goal Soccer pilot overview and invited discovery call,OGS_DISCOVERY_INVITE_V1,2026-02-28 14:25:00,Book 20-min call,delivered,synthetic_bootstrap
+MSG-1002,CT-0002,email,outbound,ogs-webinar,Sent case-study based value proposition with ROI framing,OGS_CASE_STUDY_EMAIL_V1,2026-02-28 15:08:00,Reply with preferred time,opened,synthetic_bootstrap
+MSG-1003,CT-0003,telegram,outbound,ogs-launch,Follow-up on interest and offered demo slot,OGS_TELEGRAM_FOLLOWUP_V1,2026-02-28 16:19:00,Confirm demo slot,replied,synthetic_bootstrap
+MSG-1004,CT-0004,x,outbound,ogs-launch,Intro message on Open Goal coaching workflow optimization,OGS_X_OUTREACH_V1,2026-02-28 16:50:00,Visit landing page,delivered,synthetic_bootstrap
+MSG-1005,CT-0005,email,outbound,ogs-webinar,Sent webinar recap and conversion offer,OGS_RECAP_EMAIL_V1,2026-02-28 17:15:00,Claim strategy session,clicked,synthetic_bootstrap

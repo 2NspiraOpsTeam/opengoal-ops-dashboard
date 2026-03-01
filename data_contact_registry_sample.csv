@@ -1,0 +1,6 @@
+contact_id,full_name,company,email,phone,primary_channel,channel_handle,lifecycle_stage,last_contacted_at,owner,data_source,confidence
+CT-0001,Alex Rivera,Rivera Sports Consulting,alex.rivera@example.com,+1-555-0101,linkedin,@alexrivera,interest,2026-02-28 14:22:00,sales-1,synthetic_bootstrap,medium
+CT-0002,Sam Patel,Peak Youth Academy,sam.patel@example.com,+1-555-0102,email,sam.patel@example.com,consideration,2026-02-28 15:05:00,sales-2,synthetic_bootstrap,medium
+CT-0003,Jordan Lee,GoalLine Training Co.,jordan.lee@example.com,+1-555-0103,telegram,@jordangoal,conversion,2026-02-28 16:17:00,sales-1,synthetic_bootstrap,medium
+CT-0004,Taylor Morgan,NextPlay FC,taylor.morgan@example.com,+1-555-0104,x,@nextplay_taylor,interest,2026-02-28 16:48:00,sales-3,synthetic_bootstrap,medium
+CT-0005,Riley Chen,Elevate Sports Labs,riley.chen@example.com,+1-555-0105,website,form_submission,consideration,2026-02-28 17:10:00,sales-2,synthetic_bootstrap,medium

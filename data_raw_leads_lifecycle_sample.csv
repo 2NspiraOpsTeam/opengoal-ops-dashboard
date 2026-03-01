@@ -1,0 +1,13 @@
+lead_id,created_at,source_channel,campaign,current_stage,qualified,owner,source
+L-0001,2026-02-25 09:20:00,telegram,ogs-launch,consideration,true,sales-1,synthetic_bootstrap
+L-0002,2026-02-25 10:11:00,x,ogs-launch,interest,false,sales-2,synthetic_bootstrap
+L-0003,2026-02-25 13:02:00,website,ogs-launch,conversion,true,sales-1,synthetic_bootstrap
+L-0004,2026-02-26 08:33:00,x,ogs-launch,consideration,true,sales-2,synthetic_bootstrap
+L-0005,2026-02-26 11:22:00,telegram,ogs-launch,interest,false,sales-1,synthetic_bootstrap
+L-0006,2026-02-26 16:40:00,website,ogs-webinar,conversion,true,sales-3,synthetic_bootstrap
+L-0007,2026-02-27 09:44:00,x,ogs-webinar,consideration,true,sales-2,synthetic_bootstrap
+L-0008,2026-02-27 10:22:00,telegram,ogs-webinar,interest,false,sales-1,synthetic_bootstrap
+L-0009,2026-02-27 14:09:00,website,ogs-webinar,retention,true,sales-3,synthetic_bootstrap
+L-0010,2026-02-28 09:01:00,x,ogs-webinar,consideration,true,sales-2,synthetic_bootstrap
+L-0011,2026-02-28 12:12:00,telegram,ogs-webinar,interest,false,sales-1,synthetic_bootstrap
+L-0012,2026-02-28 16:20:00,website,ogs-webinar,conversion,true,sales-3,synthetic_bootstrap

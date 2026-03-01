@@ -1,0 +1,13 @@
+event_ts,channel,campaign,event_type,impressions,engagements,clicks,source
+2026-02-25 09:00:00,telegram,ogs-launch,post_view,1200,84,43,synthetic_bootstrap
+2026-02-25 12:00:00,x,ogs-launch,post_view,5400,201,119,synthetic_bootstrap
+2026-02-25 15:00:00,website,ogs-launch,page_view,890,67,52,synthetic_bootstrap
+2026-02-26 09:00:00,telegram,ogs-launch,post_view,1320,91,51,synthetic_bootstrap
+2026-02-26 12:00:00,x,ogs-launch,post_view,6100,244,133,synthetic_bootstrap
+2026-02-26 15:00:00,website,ogs-launch,page_view,940,73,61,synthetic_bootstrap
+2026-02-27 09:00:00,telegram,ogs-webinar,post_view,1540,103,58,synthetic_bootstrap
+2026-02-27 12:00:00,x,ogs-webinar,post_view,7300,302,161,synthetic_bootstrap
+2026-02-27 15:00:00,website,ogs-webinar,page_view,1100,88,74,synthetic_bootstrap
+2026-02-28 09:00:00,telegram,ogs-webinar,post_view,1680,121,69,synthetic_bootstrap
+2026-02-28 12:00:00,x,ogs-webinar,post_view,7900,336,184,synthetic_bootstrap
+2026-02-28 15:00:00,website,ogs-webinar,page_view,1260,95,81,synthetic_bootstrap
