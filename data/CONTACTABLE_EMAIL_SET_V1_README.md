@@ -11,5 +11,17 @@ Candidate outreach dataset for Open Goal Soccer containing contacts with email d
 - Domain has MX records
 - Deduplicated by email (nearest-distance record retained)
 
+## Columns
+- `organization_name`
+- `contact_name` *(included when available in source; currently mostly blank in source data)*
+- `lane`
+- `distance_miles`
+- `email`
+- `phone`
+- `website`
+- `role_target`
+- `source`
+- `verification_flag`
+
 ## Important
 This is a **candidate list**, not final approved send list. Team QA review required before production outreach.
