@@ -23,6 +23,8 @@ Candidate outreach dataset for Open Goal Soccer containing contacts with email d
 - `source`
 - `verification_flag`
 - `custom_message_draft` *(starter outreach copy for Maya; editable per contact)*
+- `maya_suggestion` *(Maya notes/recommendations per contact)*
+- `brian_suggestion` *(Brian notes/recommendations per contact)*
 
 ## Important
 This is a **candidate list**, not final approved send list. Team QA review required before production outreach.
